@@ -1,5 +1,5 @@
-APP SERVICE KELOMPOK 6
+APP SERVICE 
 
-- Agustia Selsa Maharani (2222105031)
-- Ahmad Nazmuddin (2222105034)
-- Dwiki Abdul Jalal (2222105011)
+- Barriq Kaykaus Mujau (2222105008)
+- Ardi Rohmana (2222105005)
+- Moch Naufal Hibatullah (2222105014)
